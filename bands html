@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imagine Dragons - Evolve</title>
+    <link rel="stylesheet" href="band.css">
+</head>
+<body>
+    <h1>Imagine Dragons - Evolve</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Group</th>
+                <th>Tracks</th>
+                <th>Year</th>
+                <th>Links</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Imagine Dragons</td>
+                <td>
+                    <ul>
+                        <li>I Don't Know Why</li>
+                        <li>Whatever It Takes</li>
+                        <li>Believer</li>
+                        <li>Walking the Wire</li>
+                        <li>Rise Up</li>
+                        <li>I'll Make It Up to You</li>
+                        <li>Yesterday</li>
+                        <li>Mouth of the River</li>
+                        <li>Thunder</li>
+                        <li>Start Over</li>
+                        <li>Dancing in the Dark</li>
+                    </ul>
+                </td>
+                <td>2017</td>
+                <td>
+                    <a href="https://www.imaginedragonsmusic.com/">Official Site</a><br>
+                    <a href="https://en.wikipedia.org/wiki/Imagine_Dragons">Wikipedia</a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <footer>
+        <p>Contact me at <a href="mailto:darmst12@my.nscc.edu">darmst12@my.nscc.edu</a></p>
+    </footer>
+</body>
+</html>
